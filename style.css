@@ -1,0 +1,31 @@
+.wel{
+    /* background-color: black; */
+    border: 4px solid black;
+    border-radius: 5px;
+    margin: 0px 200px 0px 200px;
+    padding: 20px;
+   font-size: 50px;
+
+}
+.st{
+   background-image: url(./pngtree-wood-board-png-image_8133850.png);
+   background-size: 5000px;
+   background-repeat: no-repeat;
+   background-position: center;
+   /* border: 20px; */
+   /* border-radius: 200px; */
+   margin: 0px 50px;
+   font-size: xx-large;
+   font-family: 'Courier New', Courier, monospace;
+}
+.main{
+    background-color: cadetblue;
+    border: 20px ;
+    margin:0px 50px ;
+}
+.im{
+    margin:0px 700px;
+}
+button{
+    background-color: blanchedalmond;
+}
