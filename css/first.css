@@ -1,0 +1,107 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.manu-container{
+    background-color: rgb(41, 40, 40);
+    padding: 20px;
+    color: aliceblue;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.pic{
+    width: 70px;
+    height: 40px;
+}
+.manus{
+    display: flex;
+    cursor: pointer;
+    
+}
+.l{
+    margin-right: 10px;
+    padding: 10px;
+    font-size: 18px;
+}
+.l:hover{
+    color: blueviolet;
+}
+.banner-container{
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    align-items: center;
+    background-image: url("../image/backgroundimg.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 20px;
+    
+}
+.tit{
+    font-size: 55px;
+    width: bold;
+}
+.des{
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.but{
+    padding: 7px;
+    background-color: blueviolet;
+    border: none;
+    border-radius: 10px;
+    color: aliceblue;
+    
+}
+.banimg{
+    height: 450px;
+    
+}
+.about-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row-reverse;
+    background-color: black;
+    color: aliceblue;
+    margin: none;
+    padding: 20px;
+}
+.ti{
+    text-align: center;
+    font-size: 55px;
+    width: bold;
+    margin-top: 10px;
+    background-color: black;
+    color: aliceblue;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    box-shadow: 4px 4px 15px gray;
+    background-color: rgb(2, 2, 2);
+    text-align: center;
+    color: aliceblue;
+    padding: 20px;
+}
+.text{
+    padding: 10px;
+}
+.servise-container{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+    
+}
+.te{
+    padding-bottom: 70px;
+    margin-top: none;
+
+}
+
