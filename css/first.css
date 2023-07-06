@@ -38,6 +38,7 @@
     background-position: center;
     background-repeat: no-repeat;
     padding: 20px;
+    margin-bottom: -1px;
     
 }
 .tit{
@@ -55,6 +56,7 @@
     border: none;
     border-radius: 10px;
     color: aliceblue;
+    cursor: pointer;
     
 }
 .banimg{
@@ -68,7 +70,7 @@
     flex-direction: row-reverse;
     background-color: black;
     color: aliceblue;
-    margin: none;
+    margin: -1px;
     padding: 20px;
 }
 .ti{
@@ -101,7 +103,7 @@
 }
 .te{
     padding-bottom: 70px;
-    margin-top: none;
+    margin-top: -1px;
 
 }
 
